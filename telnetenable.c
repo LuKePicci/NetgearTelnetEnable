@@ -47,6 +47,7 @@
 #include <stdio.h>
 //#include <process.h>
 #include <string.h>
+#include <unistd.h>
 
 #include "md5.h"
 #include "blowfish.h"
